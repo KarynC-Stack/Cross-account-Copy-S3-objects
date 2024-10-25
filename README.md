@@ -7,7 +7,7 @@
 **Create one S3 bucket(source) in one account**
 
 **Attach the following bucket policy to the bucket**
-``json
+```json
 {
     "Version": "2012-10-17",
     "Id": "Policy1611277539797",
@@ -42,7 +42,7 @@
 **Create a new user for the destination account**
 
 **Attach an in-line policy for the user. Copy the below code below-Replace sourcebucket and destinationbucket**
-``json
+```json
 {
 	"Version": "2012-10-17",
 	"Statement": [
