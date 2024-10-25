@@ -89,7 +89,7 @@ aws iam create-user --user-name <username>
 
 **Create one S3 bucket(destination) in the new account**
 ```bash
-aws s3 mb s3://<<destinationbucket>>
+aws s3 mb s3://<destinationbucket>
 ```
 
 **Create access keys for the user**
