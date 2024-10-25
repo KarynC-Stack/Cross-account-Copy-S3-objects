@@ -77,7 +77,7 @@
 
 **Create access keys for the user**
 
-**Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+**Install [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)**
 
 **Configure AWS CLI**
 ```bash
