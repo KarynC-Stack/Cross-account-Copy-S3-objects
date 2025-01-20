@@ -49,8 +49,8 @@ aws s3 mb s3://<<sourcebucket>>
         }
     ]
 }
-```
 
+```
 **Create a new user for the destination account**
 ```bash
 aws iam create-user --user-name <username>
